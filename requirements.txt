@@ -1,0 +1,12 @@
+bs4
+flask
+requests
+numpy
+pandas
+scikit-learn
+selenium
+urllib3
+keras
+matplotlib
+
+
